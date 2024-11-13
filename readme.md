@@ -24,7 +24,7 @@ In this game, the program randomly selects a secret number between 1 and 100, an
 
     ```sh
     git clone https://github.com/imaazkhalid/guessing-game.git
-    cd number-guessing-game
+    cd guessing-game
     ```
 
 2. Build and run the program with `cargo`:
